@@ -1,0 +1,16 @@
+{
+  "name": "shortestpath",
+  "version": "1.0.0",
+  "description": "A node.js program to create and visualize weighted graphs and find shortest path between two points",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
